@@ -1,4 +1,4 @@
-Correlated signatures of social behavior in cerebellum and anterior cingulate cortex
+**Correlated signatures of social behavior in cerebellum and anterior cingulate cortex**
 https://doi.org/10.5061/dryad.t4b8gtj80
 
 Data acquired by Dr. Sung Won Hur using E-Scope developed in the Golshani lab.
